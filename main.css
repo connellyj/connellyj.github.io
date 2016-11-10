@@ -1,10 +1,12 @@
 body {
 	font-family: "Trebuchet MS", Helvetica, sans-serif; 
 	background-color: ghostwhite;
-	padding-left: 20;
-	padding-right: 20;
 }
 
-h3 {
-	padding-left: 75;
+aside {
+	float: right;
+}
+
+section {
+	float: left;
 }
