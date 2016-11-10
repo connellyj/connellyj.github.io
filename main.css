@@ -5,9 +5,9 @@ body {
 
 aside {
 	float: right;
-	max-width: 190;
+	max-width: 190px;
 }
 
 section {
-	margin-right: 200;
+	margin-right: 200px;
 }
