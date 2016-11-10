@@ -1,1 +1,5 @@
-body {font-family: "Trebuchet MS", Helvetica, sans-serif; background-color: ghostwhite}
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif; 
+	background-color: ghostwhite;
+	margin-left: 5;
+}
