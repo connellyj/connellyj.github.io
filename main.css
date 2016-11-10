@@ -6,8 +6,13 @@ body {
 aside {
 	float: right;
 	max-width: 190px;
+	text-align: left;
 }
 
 section {
 	margin-right: 200px;
+}
+
+header {
+	text-align: center;
 }
