@@ -1,13 +1,13 @@
 body {
- font-family: "Trebuchet MS", Helvetica, sans-serif; 
- background-color: ghostwhite;
+ font-family: Century Gothic, sans-serif; 
+ background-color: #d9e6f2;
 }
 
 aside {
  float: right;
- max-width: 190px;
- text-align: left;
- padding-right: 20px;
+ max-width: 200px;
+ text-align: center;
+ padding-right: 75px;
 }
 
 section {
@@ -16,6 +16,13 @@ section {
 
 header {
  text-align: center;
+ background-image: url(HeaderImage.jpg);
+ min-height: 100px;
+}
+
+footer {
+ background-image: url(HeaderImage.jpg);
+ min-height: 100px;
 }
 
 td, th {
@@ -26,9 +33,17 @@ td, th {
 }
 
 tr:nth-child(even) {
- background-color: #fffaf1;
+ background-color: #f0f5f5;
 }
 
 table {
  background-color: #fffffa;
+}
+
+a:link {
+ color: #004080;
+}
+
+a:visited {
+ color: #001a33;
 }
