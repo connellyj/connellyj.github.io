@@ -16,3 +16,8 @@ section {
 header {
 	text-align: center;
 }
+
+td, th {
+	padding: 10px;
+	text-align: left;
+}
