@@ -1,23 +1,34 @@
 body {
-	font-family: "Trebuchet MS", Helvetica, sans-serif; 
-	background-color: ghostwhite;
+ font-family: "Trebuchet MS", Helvetica, sans-serif; 
+ background-color: ghostwhite;
 }
 
 aside {
-	float: right;
-	max-width: 190px;
-	text-align: left;
+ float: right;
+ max-width: 190px;
+ text-align: center;
+ padding-right: 20px;
 }
 
 section {
-	margin-right: 200px;
+ margin-right: 200px;
 }
 
 header {
-	text-align: center;
+ text-align: center;
 }
 
 td, th {
-	padding: 10px;
-	text-align: left;
+ padding: 10px;
+ text-align: left;
+ vertical-align: top;
+ min-width: 70px;
+}
+
+tr:nth-child(even) {
+ background-color: #fffaf1;
+}
+
+table {
+ background-color: #fffffa;
 }
