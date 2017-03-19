@@ -44,6 +44,7 @@ li a {
     display: block;
     color: black;
     text-align: center;
+    font-weight: bold;
     padding: 14px 16px;
     text-decoration: none;
 }
@@ -59,19 +60,24 @@ td, th {
     min-width: 70px;
 }
 
-tr:nth-child(even) {
+tr {
     background-color: #f0f5f5;
 }
 
+tr:first-child, td:first-child {
+    background-color: #334350;
+    color: white;
+}
+
 table {
-    background-color: #fffffa;
+    background-color: #334350;
     margin: 10px;
 }
 
-a:link {
-    color: #004080;
+td a:link {
+    color: white;
 }
 
-a:visited {
-    color: #001a33;
+td a:visited {
+    color: lightgrey;
 }
