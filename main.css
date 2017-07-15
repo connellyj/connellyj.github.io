@@ -25,6 +25,14 @@ h2 {
     padding-left: 16px;
 }
 
+img {
+    padding-top: 6px;
+    padding-right: 16px;
+    padding-left: 6px;
+    border-radius: 50%;
+    float: left;
+}
+
 body {
     font-family: Century Gothic, sans-serif;
     background-color: #c2ced8;
