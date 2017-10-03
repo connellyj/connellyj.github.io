@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Elegit"
+details: "Apr 16 - Jan 17"
+link: "http://elegit.org/"
+skills: "Java 8, JavaFX, Git, and IntelliJ"
+---
+
+Developed a Git client that teaches students how to use Git while using it. Proficiency with test-driven development,
+Java’s concurrency framework, and software design methods.
+
+

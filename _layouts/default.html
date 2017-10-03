@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+    <meta charset="UTF-8">
+
+    {% seo %}
+    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" href="letterJ.png">
+</head>
+<body>
+<section class="page-header">
+    <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+    <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+    <a href="JuliaConnellyResume.pdf" target="_blank" class="btn">Resume</a>
+    <a href="https://www.linkedin.com/in/julia-connelly-bb78b691" target="_blank" class="btn">LinkedIn</a>
+    <a href="https://github.com/connellyj/" target="_blank" class="btn">GitHub</a>
+    <a href="https://bitbucket.org/connellyj/" target="_blank" class="btn">BitBucket</a>
+    <a href="https://connellyj.itch.io/" target="_blank" class="btn">Itch.io</a>
+</section>
+
+<section class="main-content">
+    <ul>
+        {% for post in site.posts %}
+        <a href={{post.link}} target="_blank"><h1>{{post.title}}</h1></a>
+        <p>
+        <i>{{post.details}}</i>
+        {{post}}
+        <b>Experience with {{post.skills}}.</b>
+        </p>
+        <br>
+        {% endfor %}
+    </ul>
+
+    <footer class="site-footer">
+        {% if site.github.is_project_page %}
+        <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+    </footer>
+</section>
+</body>
+</html>

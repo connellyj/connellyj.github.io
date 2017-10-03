@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Asynchronous Tile Loading in VR"
+details: "Mar 17"
+link: "https://github.com/connellyj/NAG"
+skills: "Unity, C#, and the HTC Vive"
+---
+
+Wrote a program which creates randomly generated Perlin noise terrain that is loaded asynchronously and supports VR
+teleportation.
+
+
