@@ -25,7 +25,7 @@
 <section class="main-content">
     <ul>
         {% for post in site.posts %}
-        <a href={{post.link}} target="_blank"><h1>{{post.title}}</h1></a>
+        <h1><a href={{post.link}} target="_blank">{{post.title}}</a></h1>
         <p>
         <i>{{post.details}}</i>
         {{post}}
