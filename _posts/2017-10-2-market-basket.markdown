@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Applied Predictive Technologies: Market Basket"
-details: "Jun 17 - Aug 17"
+details: "Jun '17 - Aug '17"
 link: "https://www.predictivetechnologies.com/en/product/market-basket-analyzer"
 skills: "C#, SQL, JavaScript, and VisualStudio"
 ---

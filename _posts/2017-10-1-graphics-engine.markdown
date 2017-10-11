@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Graphics Engine"
-details: "Jan 17 - Mar 17"
+details: "Jan '17 - Mar '17"
 link: "https://github.com/connellyj/graphicsClass"
 skills: "C, OpenGL, and GLSL"
 ---

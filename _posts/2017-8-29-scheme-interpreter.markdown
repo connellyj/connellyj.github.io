@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scheme Interpreter"
-details: "Mar 17 - Jun 17"
+details: "Mar '17 - Jun '17"
 link: "https://github.com/connellyj/SchemeInterpreter"
 skills: "C, Scheme, and parse trees"
 ---

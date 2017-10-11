@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elegit"
-details: "Apr 16 - Jan 17"
+details: "Apr '16 - Jan '17"
 link: "http://elegit.org/"
 skills: "Java 8, JavaFX, Git, and IntelliJ"
 ---

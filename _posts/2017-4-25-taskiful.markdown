@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taskiful"
-details: "Jan 17 - Mar 17"
+details: "Jan '17 - Mar '17"
 link: "https://bitbucket.org/connellyj/taskiful"
 skills: "Java, JavaFX, and IntelliJ"
 ---

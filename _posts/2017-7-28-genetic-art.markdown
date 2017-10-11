@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Genetic Art"
-details: "Apr 17 - Jun 17"
+details: "Apr '17 - Jun '17"
 link: "https://github.com/connellyj/GeneticArt"
 skills: "Java, IntelliJ, and evolutionary algorithms"
 ---

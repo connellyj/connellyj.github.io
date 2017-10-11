@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Medical Robot"
-details: "Sep 16 - Dec 16"
+details: "Sep '16 - Dec '16"
 link: "https://github.com/connellyj/DIS-AI"
 skills: "Java and path-finding algorithms"
 ---
