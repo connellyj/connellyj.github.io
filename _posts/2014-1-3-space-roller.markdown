@@ -6,7 +6,7 @@ link: "https://connellyj.itch.io/space-roller"
 skills: "Unity and C#"
 ---
 
-A challenging space themed 3D ball rolling game. Source code available on [GitHub](https://github.com/connellyj/SpaceRoller).
+Created a challenging space themed 3D ball rolling game. Source code available on [GitHub](https://github.com/connellyj/SpaceRoller).
 
 
 

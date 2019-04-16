@@ -6,7 +6,7 @@ link: "http://elegit.org/"
 skills: "Java, JavaFX, Git, and IntelliJ"
 ---
 
-Developed a Git client that teaches students how to use Git while using it.
+Developed a Git client that teaches students how to use Git while using the client.
 Researched Git functionality to better understand how to teach students about Git.
-Created and implemented a user interfeace redesign to more clearly represent what Git does.
-For example, commit symbols that differentiate between local information and fetched information.
+Created and implemented a user interface redesign to more clearly represent what Git does - 
+for example, commit symbols that differentiate between local information and fetched information.

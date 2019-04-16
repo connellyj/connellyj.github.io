@@ -6,4 +6,4 @@ link: "https://bitbucket.org/connellyj/taskiful"
 skills: "Java, JavaFX, and IntelliJ"
 ---
 
-Created a to do manager with a thoughtfully designed code base which implements multiple design patterns such as MVC, the observer pattern, and the builder pattern.
+Created a to-do manager with a thoughtfully designed code base which implements multiple design patterns such as MVC, the observer pattern, and the builder pattern.
