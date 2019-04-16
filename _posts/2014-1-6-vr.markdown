@@ -6,7 +6,4 @@ link: "https://github.com/connellyj/NAG"
 skills: "Unity, C#, and the HTC Vive"
 ---
 
-Wrote a program which creates randomly generated Perlin noise terrain that is loaded asynchronously and supports VR
-teleportation.
-
-
+Wrote a program which creates randomly generated Perlin noise terrain that is loaded asynchronously and supports VR teleportation.

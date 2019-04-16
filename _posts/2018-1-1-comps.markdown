@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Wellness Challenge Mobile App"
+details: "Sep '17 - Mar '18"
+link: "https://github.com/connellyj/WellnessChallengeApp/"
+skills: "React Native"
+---
+
+Worked directly with clients to design and launch a mobile application on an accelerated timeline.
+The mobile app tracks which activities from the Wellness Challenge students have completed and sends reminders for future activities.
+Received a grade of distinction from faculty members for leadership and development expertise.

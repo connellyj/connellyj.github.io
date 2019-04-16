@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Elegit"
+details: "Apr '16 - Jan '17"
+link: "http://elegit.org/"
+skills: "Java, JavaFX, Git, and IntelliJ"
+---
+
+Developed a Git client that teaches students how to use Git while using it.
+Researched Git functionality to better understand how to teach students about Git.
+Created and implemented a user interfeace redesign to more clearly represent what Git does.
+For example, commit symbols that differentiate between local information and fetched information.
