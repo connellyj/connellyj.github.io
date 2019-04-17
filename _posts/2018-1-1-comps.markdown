@@ -8,4 +8,6 @@ skills: "React Native"
 
 Worked directly with clients to design and launch a mobile application on an accelerated timeline.
 The mobile app tracks which activities from the Wellness Challenge students have completed and sends reminders for future activities.
+Collaborated with a team of 6 to develop the app using React Native. 
+Acted as a product owner for the team; tracked tasks using Trello, ran team meetings, and set software design patterns across the app. 
 Received a grade of distinction from faculty members for leadership and development expertise.

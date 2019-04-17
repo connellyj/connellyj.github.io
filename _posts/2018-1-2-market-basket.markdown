@@ -7,4 +7,5 @@ skills: "C#, SQL, JavaScript, VisualStudio, and AGILE"
 ---
 
 Professionally developed web-based software in an AGILE environment that helps businesses make smart, data-driven decisions.
-Planned, developed, tested, and deployed a new trend chart feature to clients.
+Independently planned, developed, tested, and deployed a new trend chart feature to clients by the end of the summer. 
+Used a complete web stack including SQL, C# .NET, and JavaScript.
