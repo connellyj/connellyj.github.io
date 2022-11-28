@@ -1,0 +1,9 @@
+---
+layout: post
+title: "System Development in the UNIX Environment"
+details: "Spring '21"
+link: "https://github.com/connellyj/system-dev-with-unix"
+skills: "C, UNIX, make"
+---
+
+Developed libraries to manage logs, threads, and shared memory. Wrote programs to exercise these libraries.
