@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unix Shell"
-details: "Sep '17"
+details: "Sept 2017"
 link: "https://github.com/connellyj/UnixShell"
 skills: "C and Unix"
 ---

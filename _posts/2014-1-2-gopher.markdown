@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gopher Protocol"
-details: "Apr '18"
+details: "Apr 2018"
 link: "https://github.com/connellyj/gopher"
 skills: "Python"
 ---

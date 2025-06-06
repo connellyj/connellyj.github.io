@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musical Platforms"
-details: "Sep '16 - Oct '16"
+details: "Sept 2016 - Oct 2016"
 link: "https://connellyj.itch.io/musical-platforms"
 skills: "Unity and C#"
 ---

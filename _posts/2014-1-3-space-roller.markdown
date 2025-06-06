@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Space Roller"
-details: "Oct '16 - Nov '16"
+details: "Oct 2016 - Nov 2016"
 link: "https://connellyj.itch.io/space-roller"
 skills: "Unity and C#"
 ---

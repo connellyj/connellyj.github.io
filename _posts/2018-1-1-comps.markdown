@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wellness Challenge Mobile App"
-details: "Sep '17 - Mar '18"
+details: "Sep 2017 - Mar 2018"
 link: "https://github.com/connellyj/WellnessChallengeApp/"
 skills: "React Native"
 ---

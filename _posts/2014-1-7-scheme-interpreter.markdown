@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scheme Interpreter"
-details: "Mar '17 - Jun '17"
+details: "Mar 2017 - Jun 2017"
 link: "https://github.com/connellyj/SchemeInterpreter"
 skills: "C, Scheme, and Valgrind"
 ---
