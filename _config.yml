@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Julia Connelly's Portfolio
 email: juliakconnelly@gmail.com
-description: juliakconnelly@gmail.com | 952-688-1450
+description: juliakconnelly@gmail.com | +1-952-688-1450 | US & Irish Citizen
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
