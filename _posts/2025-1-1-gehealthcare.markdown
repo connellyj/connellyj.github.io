@@ -6,4 +6,4 @@ link: "JuliaConnellyResume.pdf"
 skills: "C++"
 ---
 
-See resume for details on work experience.
+See resumé for details on work experience.
